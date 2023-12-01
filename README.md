@@ -43,7 +43,7 @@
        <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/XAMPP_Windows_10.PNG" alt="Servidores activos">
   </section>
 - Abrir phpMyAdmin presionando<a href="https://www.youtube.com/watch?v=giCmjKBmK6A" target="_blank"> el boton Admin </a>en el servidor MySQL desde XAMPP :bulb: 
-- <a href="https://disenowebakus.net/crear-una-base-de-datos-phpmyadmin-mysql-php.php" target="_blank"> Crear la base de datos, ponerle un nombre.</a> :warning: IMPORTANTE NO AGREGARLE TABLAS A LA BD, tiene que estar VACÍA :warning:  
+- <a href="https://disenowebakus.net/crear-una-base-de-datos-phpmyadmin-mysql-php.php" target="_blank"> Crear la base de datos, ponerle un nombre.</a> ⚠️ IMPORTANTE NO AGREGARLE TABLAS A LA BD, tiene que estar VACÍA ⚠️  
 - <a href="https://help.one.com/hc/es/articles/115005588189--C%C3%B3mo-importar-una-base-de-datos-a-phpMyAdmin-" target="_blank"> Importar el archivo bd_peliss.sql </a>(que se encuentra en el repositorio dentro de la carpeta BD) para que se creen las tablas :triangular_flag_on_post: 
 
 
@@ -74,13 +74,13 @@
 
 
 ## Funcionalidades :clipboard:
-### :red_circle: `Sin cuenta de usuario (sin iniciar sesión)`:rocket:
+### :red_circle: `Sin cuenta de usuario (sin iniciar sesión)`
 - Visualizar información de diferentes películas🎬, cómo el nombre, género, país🏁, año de estreno, director, empresa distribuidora, trailer🎥 y una sinopsis. 
 - Filtrar películas📼 por género
   <section align="center">
     <img src="https://play-lh.googleusercontent.com/5UmiKCiL3tCpKtClWGXazB45bjA_gp0h_1DoRRgg1DXmj1zqWceAz-elMaIMiZgxKHU" alt="pelis">
   </section>
-### :large_blue_circle: `Con cuenta de usuario creada (con sesión activa y logeado en el sitio) `:rocket:
+### :large_blue_circle: `Con cuenta de usuario creada (con sesión activa y logeado en el sitio) `
 - Se podrá acceder a todo lo mencionado anteriormente mas:
 	- Dar like👍 a las películas🍿 y marcarlas como favoritas❣️
 	- Dejar comentarios👁️‍🗨️ sobre alguna película📺
